@@ -1,0 +1,79 @@
+.cinza
+{
+    background-color: rgb(211, 208, 208);
+    border-color: rgb(194, 192, 192);
+}
+.amarelo
+{
+    background-color: rgb(253, 253, 80);
+    color: red;
+    
+}
+.azul
+{
+    background-color: rgb(125, 125, 255);
+    color: darkblue;
+}
+div
+{
+    margin: 0,5px;
+    border: solid;
+    border-radius: 7px;
+    border-color: gainsboro;
+}
+.semana
+{
+    height: 35px;
+    width: 115px;
+    text-align: center;
+    font-size: 20px;
+    font-family: arial;
+    display: table-cell;
+}
+.principal
+{
+    display: table;
+    border: none;
+    position: absolute;
+    top: 17%;
+    left: 17%;
+}
+.dias
+{
+    height: 60px;
+    width: 115px;
+    text-align: center;
+    font-size: 39px;
+    font-family: arial;
+    display: table-cell;
+}
+.p1
+{
+  text-align: center;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+}
+.align
+{
+    display: table-row;
+}
+.Sem
+{
+  font-size: 15px;
+   width: 65;
+}
+.num
+{
+    font-size: 20;
+}
+.p2
+{
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.p2.p
+{
+width: 1000px;
+}
